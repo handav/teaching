@@ -2,3 +2,5 @@ markovText/.DS_Store
 markovTwitterBot/.DS_Store
 .DS_Store
 markovTwitterBot/twitter_archive
+markovTwitterBot/node_modules
+markovText/node_modules
