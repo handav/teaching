@@ -1,6 +1,7 @@
-markovText/.DS_Store
-markovTwitterBot/.DS_Store
 .DS_Store
-markovTwitterBot/twitter_archive
+markovTwitterBot/.DS_Store
 markovTwitterBot/node_modules
+markovTwitterBot/twitter_archive
+markovText/.DS_Store
 markovText/node_modules
+tracery/node_modules

@@ -1,5 +1,5 @@
 {
-  "name": "markovText",
+  "name": "tracery",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "rita": "^1.1.51",
+    "tracery-grammar": "^2.7.3",
   }
 }
