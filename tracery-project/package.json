@@ -1,14 +1,11 @@
 {
-  "name": "tracery",
+  "name": "tracery-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "tracery project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "tracery-grammar": "^2.7.3",
-  }
+  "license": "ISC"
 }
