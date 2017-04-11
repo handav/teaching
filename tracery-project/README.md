@@ -2,7 +2,7 @@ Tracery is a brilliant tool to more easily create story grammars and structure. 
 
 For more, see 
 
-https://github.com/handav/teaching/tree/master/tracery
+https://github.com/galaxykate/tracery/tree/tracery2
 
 and
 
